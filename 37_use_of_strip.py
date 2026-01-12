@@ -5,5 +5,5 @@ def rem(l,word):
         if item!=word:
             n.append(item.strip(word))
     return n
-l=["yash","kalpana"]
+l=["yash","kumar"]
 print(rem(l,"a"))

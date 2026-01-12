@@ -1,11 +1,11 @@
 # example of dictionary
 marks={
     "yash":100,
-    "kalpana":95
+    "kumar":95
 }
 print(marks)
 print(type(marks))
-print(marks["kalpana"])
+print(marks["kumar"])
 
 
 # dictionary method

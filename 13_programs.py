@@ -40,7 +40,7 @@ print(marks)
 
 # check that a type cannot be changed in python 
 a=(20,"yash")
-a[1]="kalpana"
+a[1]="Kumar"
 print(a)
 
 # wap to sum a list with 4 numbers 

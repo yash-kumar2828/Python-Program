@@ -1,4 +1,4 @@
-l=["yash","kalpana","yash kalpana"]
+l=["yash","kumar","yash kumar"]
 name=input("enter your name=")
 if(name in l):
     print("your name in the list")

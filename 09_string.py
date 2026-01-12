@@ -3,7 +3,7 @@ name="yash"
 nameshort=len(name)
 print(nameshort)
 
-name1="yashkalp"
+name1="yash kumar"
 namesort1=name[0:8]
 print(namesort1)
 print(name1[-8:-1])
@@ -27,12 +27,12 @@ capital=name2.capitalize()
 print(capital)
 
 
-a="yash kalpana"
-index=a.find("kalpana")
+a="yash singh"
+index=a.find("singh")
 print(index)
 
 a1="yash kumar"
-replaced=a1.replace("kumar","kalpana")
+replaced=a1.replace("kumar","singh")
 print(replaced)
 
 # escape sequence characters

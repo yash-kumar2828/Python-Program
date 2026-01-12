@@ -13,7 +13,7 @@ print(type(set))
 
 
 # list method
-s={"yash",1,2,1,2,10,5,"kalpana"}
+s={"yash",1,2,1,2,10,5,"kumar"}
 print(s)
 s.add(190)
 print(s)

@@ -4,7 +4,7 @@ while i<10:
     print(i)
     i=i+1
 
-l=[1,"yash","kalpana",True,"yash kalpana"]
+l=[1,"yash","kumar",True,"yash kumar"]
 i=0
 while i<len(l):
     print(l[i])
